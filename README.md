@@ -1,4 +1,4 @@
-# MINI PROJECT 1 PBO MUHAMMAD ATTAR KHANZA HABIBILLAH (2509116006)
+# UTS PBO MUHAMMAD ATTAR KHANZA HABIBILLAH (2509116006)
 ## Sistem Manajemen Penyewaan Alat Musik
 ### Deskripsi singkat program
 Program Sistem Penyewaan Alat Musik merupakan program berbasis Java yang digunakan untuk mengelola data alat musik, pelanggan, dan transaksi penyewaan. Program menyediakan fitur tambah, lihat, ubah, dan hapus (CRUD) pada setiap data. Program juga dapat menghitung total biaya penyewaan berdasarkan harga alat dan lama penyewaan. Implementasi program menggunakan class, object, constructor, ArrayList, percabangan, dan perulangan.
